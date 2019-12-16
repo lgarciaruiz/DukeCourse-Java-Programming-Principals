@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=tester
+comment0.text=\n\ Write\ a\ description\ of\ tester\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testGetFollows()
+comment2.params=
+comment2.target=void\ testGetFollowsWithFile()
+comment3.params=list
+comment3.target=void\ printArray(java.util.ArrayList)
+numComments=4
