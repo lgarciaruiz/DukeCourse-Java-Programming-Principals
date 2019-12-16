@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QuakeSort
+comment1.params=quakes
+comment1.target=QuakeEntry\ getSmallestMagnitude(java.util.ArrayList)
+comment2.params=in
+comment2.target=java.util.ArrayList\ sortByMagnitude(java.util.ArrayList)
+comment2.text=This\ is\ a\ selection\ sort,\ it\ involves\ looking\ at\ each\ element\ and\ picking\ the\ smallest\ element\ \nrunning\ through\ every\ element\ that\ needs\ to\ be\ sorted
+comment3.params=
+comment3.target=void\ testSort()
+comment3.text=tester\ method\ to\ use\ in\ BlueJ
+numComments=4
